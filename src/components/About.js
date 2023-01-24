@@ -18,7 +18,7 @@ class About extends React.Component {
       <div>
         <h1>About Us page</h1>
         <p>This is About us page description.</p>
-        <Profile name={"First Child"} />
+        <Profile />
       </div>
     );
   }
